@@ -11,10 +11,9 @@ assignees: ''
 
 
 **System information**
-- GenoML version:
-- Doc Link:
+- GenoML Version:
+- Documentation Link?: 
 
+**Describe the documentation issue:**
 
-**Describe the documentation issue**
-
-**We welcome contributions by users. Will you be able to fix the doc Issue?**
+**We welcome contributions by users. Will you be able to fix this documentation issue?**

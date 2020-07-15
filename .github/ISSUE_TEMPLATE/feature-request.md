@@ -10,15 +10,18 @@ assignees: ''
 <em>Please make sure that this is a feature request.</em>
 
 **System information**
-- GenoML version (you are using):
-- Are you willing to contribute it (Yes/No):
+- GenoML version:
+- GenoML installed from (source or binary):
+- Are you willing to contribute to this feature? (Yes/No):
 
 
+**Describe the current behavior and feature request:**
 
-**Describe the feature and the current behavior/state.**
 
-**Will this change the current api? How?**
+**Will this change the current API? How?**
 
-**Who will benefit with this feature?**
 
-**Any Other info.**
+**Who will benefit from this feature?**
+
+
+**Any additional information?**
